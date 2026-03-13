@@ -1,0 +1,9 @@
+{
+  "people": [
+    "Ji Hong",
+    "Mabel"
+  ],
+  "date_format": "%d.%m.%Y",
+  "timezone": "Asia/Kuala_Lumpur",
+  "default_person": "Ji Hong"
+}
